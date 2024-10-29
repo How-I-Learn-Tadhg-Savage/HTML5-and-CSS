@@ -1,2 +1,7 @@
 This repo is my work and persoanl guide on how I have learn HTML5 and CSS.
 It shall be composed of my guides and exercies to demostrate understanding. 
+
+Contents:
+Section 1 - The Fundamentals 
+    1. The essentials of web design 
+
